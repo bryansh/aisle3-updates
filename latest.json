@@ -1,19 +1,19 @@
 {
-  "version": "0.1.6",
+  "version": "0.2.0",
   "notes": "See the assets to download and install this version.",
-  "pub_date": "2025-05-31T18:53:30.608Z",
+  "pub_date": "2025-05-31T20:07:21.764Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcFdNVisvcUY4QmZTZklnS3FtRXVLSGZtcWVhbmVEcFdqZUNJS1dScjZidlRlYlNTRm4yR3pSOXdTVDZGWlMzSExWVXl6YzdQbVpCNW0wbjRrKzFpUXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE2ODI0CWZpbGU6QWlzbGUzLmFwcC50YXIuZ3oKakhSYkJyeDVPQkJHeWluSmtObEh3ZmhwY1lFN0dqSWRmK09ZM1ZmakNOaStqZkNmejZDMDVoZWl1R1FCbzhXT0szY3hpdmRESVpaaGM0OVNWd043QVE9PQo=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGVhaUxHa2pIRThuMUQ3aXZxc3pYR0w5WHdLU3lxUk4rcDBjMzRWZThZb09sSkRPTEx5bzFDL2FKdXo0UFZqK0ppRFlZQVB0NGhlQ3c3cSsxNWVaL3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzIxODYyCWZpbGU6QWlzbGUzLmFwcC50YXIuZ3oKYnJXRG5reFBVcWlYZDk5UzhmNmloODJwdlh4d2t3T0J4bUF4NGtYQ1dlOGdqR1dCSzhnaEljSlR1UVJqZ0dQRWxTZ0RITDdoeXVkcXo2L0xxOWNQQVE9PQo=",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.2.0/Aisle3_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGFlcXF0cXdITXllMkZaRVFkNGdvRWRuOTFYYjUxamZ2ZUlESjhkZ2p0cko3bjBhZzgrNFI4b2cyL0Y5cHBXMWdsa09tSVJHY0ZwY0YzR0xENlZBTVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE3MTI3CWZpbGU6QWlzbGUzXzAuMS41X2FtZDY0LkFwcEltYWdlClBYVDFOZngvUHZRdmRFVm1SbnpWUXpSWUlyOWd4NEFuVmhNSC9hdkVWU0I0cHZ5OXZSOHBFVTBmRGkwc1J1bXVXYkVUcnVlNGU0eEF5QWRyMmRjYUFBPT0K",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_0.1.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGF3VTViS3c4NTlFSTBiSnIyNFc0ZUx5bEFPSFZLUlRPRWhCa1BwSEFIck8rTkQ0Wis4SmlQc3o3clhzSzdrR3Q5aUlLb0tEWEpZUWlBVnFJVzI3RWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzIyMDIzCWZpbGU6QWlzbGUzXzAuMi4wX2FtZDY0LkFwcEltYWdlCmY1c2ZpUm1nUCtRSG9vcVZDWXlJSFNoWkpqMXR0OTZJSHM5QVNQZkh6L1E4YVBXRzNXVjh6RlM5N3l0R1VVWFpSQWVpcDR0SEJNSmp2aS9DVW1ZU0FBPT0K",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.2.0/Aisle3_0.2.0_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGYySzFHZ1JDbGQwOVRVdVc1em5HandLSUFpTzBrNkZiSUZBNHNhVnA4dExGck04a3BvY1BuZUZ0dWM0NlhMY0s1a0ErT1ZRYTF3QnFFSldSTExuN0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE3NjA3CWZpbGU6QWlzbGUzXzAuMS41X3g2NF9lbi1VUy5tc2kKUUdlVWRYd0N2bnFMUUdBWnFiOWJzMDdzcFR0QWZNSlJRdTdHOExxL3pVL3gydGxiWkZ2NHBFTS95TFRMYXNvLzJXMWJadVU2MkRIYU5mbTZrOGVYQUE9PQo=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_0.1.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcFpOV09ISTFaSGY0dFQ2VUVNdFBOZTFmYWNYZmlXZ3lZVUhkL0dxUWhMNDJJam5XQkd1d1ViczV4M3J5K0VPRmFMSWtyTlNCdkpDYUNlMzY3RnJVVGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzIyMDM4CWZpbGU6QWlzbGUzXzAuMi4wX3g2NF9lbi1VUy5tc2kKeW8rK2N6Y1VXaUEzVGwyb3U2N3kzZk1OdVBoVHFCV21TalNvVXQxTzVabkhaQm1mdS85YXU1MU02Q21wVlhFeGYxMnZxZG43MGViWmFMOGM0SUxyQWc9PQo=",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.2.0/Aisle3_0.2.0_x64_en-US.msi"
     }
   }
 }
