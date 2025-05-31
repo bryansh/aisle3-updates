@@ -4,19 +4,19 @@
   "pub_date": "2024-12-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "RUQTAZz99l+9AuNroJ1m0VwBEXh3mfM25fEkNLu4Q8zZ+GXfNm3Zd3dZ2Azs0W9fDjb923wviD058DrQev4F2RSBESPFCtB76QE=",
       "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_x64-setup.exe"
     },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_aarch64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "RUQTAZz99l+9Ao8QrJT0ruLklnLsPTtKvyZ+kLuHMgYlZWkPq51VFRJzLMN5B2t9IW0dylnX0kzC9DM55niakn4fcDft1tUTyAQ=",
       "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_aarch64.dmg"
     },
+    "darwin-x86_64": {
+      "signature": "RUQTAZz99l+9AqngYg12JRXrOsXk+kCLOhbWb0hX1GCgFmClgZLtFVnxb7a0wJEl3H3HRe+91cstgq9scLon7Cb16pGa+bzATwM=",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_aarch64.app.tar.gz"
+    },
     "linux-x86_64": {
-      "signature": "",
+      "signature": "RUQTAZz99l+9AofgcQGiqV/+YnvRJGGJRdl0SNDRGl1ag+r2V4GYJCOCc+CF9WAKlthVhEwz1pD2ediWlI970m7EkBOd3hvkAQY=",
       "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_amd64.AppImage"
     }
   }
