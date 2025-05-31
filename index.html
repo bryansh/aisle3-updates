@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aisle3 Updates</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        pre { background: #f5f5f5; padding: 20px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Aisle3 Update Server</h1>
+    <p>This serves update information for the Aisle3 Gmail client.</p>
+    
+    <h2>Current Version</h2>
+    <pre id="version-info">Loading...</pre>
+    
+    <h2>Update Endpoint</h2>
+    <p><code>https://bryansh.github.io/aisle3-updates/latest.json</code></p>
+    
+    <script>
+        fetch('./latest.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('version-info').textContent = JSON.stringify(data, null, 2);
+            })
+            .catch(error => {
+                document.getElementById('version-info').textContent = 'Error loading version info';
+            });
+    </script>
+</body>
+</html>

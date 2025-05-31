@@ -1,0 +1,23 @@
+{
+  "version": "0.1.4",
+  "notes": "Initial release with Gmail client functionality",
+  "pub_date": "2024-12-XX",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.4_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.4_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.4_aarch64.dmg"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.4_amd64.AppImage"
+    }
+  }
+}
