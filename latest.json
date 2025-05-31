@@ -1,23 +1,19 @@
 {
-  "version": "0.1.4",
-  "notes": "Initial release with Gmail client functionality",
-  "pub_date": "2024-12-07T12:00:00Z",
+  "version": "0.1.5",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2025-05-31T18:53:30.608Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "RUQTAZz99l+9AuNroJ1m0VwBEXh3mfM25fEkNLu4Q8zZ+GXfNm3Zd3dZ2Azs0W9fDjb923wviD058DrQev4F2RSBESPFCtB76QE=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_x64-setup.exe"
-    },
     "darwin-aarch64": {
-      "signature": "RUQTAZz99l+9Ao8QrJT0ruLklnLsPTtKvyZ+kLuHMgYlZWkPq51VFRJzLMN5B2t9IW0dylnX0kzC9DM55niakn4fcDft1tUTyAQ=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_aarch64.dmg"
-    },
-    "darwin-x86_64": {
-      "signature": "RUQTAZz99l+9AqngYg12JRXrOsXk+kCLOhbWb0hX1GCgFmClgZLtFVnxb7a0wJEl3H3HRe+91cstgq9scLon7Cb16pGa+bzATwM=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcFdNVisvcUY4QmZTZklnS3FtRXVLSGZtcWVhbmVEcFdqZUNJS1dScjZidlRlYlNTRm4yR3pSOXdTVDZGWlMzSExWVXl6YzdQbVpCNW0wbjRrKzFpUXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE2ODI0CWZpbGU6QWlzbGUzLmFwcC50YXIuZ3oKakhSYkJyeDVPQkJHeWluSmtObEh3ZmhwY1lFN0dqSWRmK09ZM1ZmakNOaStqZkNmejZDMDVoZWl1R1FCbzhXT0szY3hpdmRESVpaaGM0OVNWd043QVE9PQo=",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "RUQTAZz99l+9AofgcQGiqV/+YnvRJGGJRdl0SNDRGl1ag+r2V4GYJCOCc+CF9WAKlthVhEwz1pD2ediWlI970m7EkBOd3hvkAQY=",
-      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.4/Aisle3_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGFlcXF0cXdITXllMkZaRVFkNGdvRWRuOTFYYjUxamZ2ZUlESjhkZ2p0cko3bjBhZzgrNFI4b2cyL0Y5cHBXMWdsa09tSVJHY0ZwY0YzR0xENlZBTVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE3MTI3CWZpbGU6QWlzbGUzXzAuMS41X2FtZDY0LkFwcEltYWdlClBYVDFOZngvUHZRdmRFVm1SbnpWUXpSWUlyOWd4NEFuVmhNSC9hdkVWU0I0cHZ5OXZSOHBFVTBmRGkwc1J1bXVXYkVUcnVlNGU0eEF5QWRyMmRjYUFBPT0K",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_0.1.5_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM3BmMXJqWFZPcGYySzFHZ1JDbGQwOVRVdVc1em5HandLSUFpTzBrNkZiSUZBNHNhVnA4dExGck04a3BvY1BuZUZ0dWM0NlhMY0s1a0ErT1ZRYTF3QnFFSldSTExuN0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4NzE3NjA3CWZpbGU6QWlzbGUzXzAuMS41X3g2NF9lbi1VUy5tc2kKUUdlVWRYd0N2bnFMUUdBWnFiOWJzMDdzcFR0QWZNSlJRdTdHOExxL3pVL3gydGxiWkZ2NHBFTS95TFRMYXNvLzJXMWJadVU2MkRIYU5mbTZrOGVYQUE9PQo=",
+      "url": "https://github.com/bryansh/aisle3-updates/releases/download/v0.1.5/Aisle3_0.1.5_x64_en-US.msi"
     }
   }
 }
